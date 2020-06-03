@@ -1,0 +1,15 @@
+{
+  "name": "@unibtc/slack-notify",
+  "version": "1.0.0",
+  "description": "simple slack notification via legacy webhooks",
+  "publishConfig": {
+      "access": "public"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:uniibu/slack-notify.git",
+  "author": "unibtc <unibtc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "needle": "^2.5.0"
+  }
+}
